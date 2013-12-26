@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">INDUMATICS-MOVIL</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_indumatics_main">INDUMATICS - MOVIL</string>
+    <string name="loaddata">Cargar Datos de la Base de Datos</string>
+    <string name="btndistancia">Set Distancia de lectura</string>
+    <string name="deletedb">Borrar DB</string>
+    <string name="title_activity_tipo_pago">Seleccione el Tipo de Pago</string>
+    <string name="tpagocheque">Pago en cheque</string>
+    <string name="tpagoefectivo">Pago Efectivo</string>
+    <string name="deletesms">CHEQUES</string>
+
+</resources>

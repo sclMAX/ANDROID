@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrackerMAX</string>
+    <string name="menu_new">Nuevo</string>
+    <string name="menu_save">Guardar</string>
+    <string name="menu_mapsettings">Tipo de Mapa</string>
+    <string name="menu_mapa_none">Ninguno</string>
+    <string name="menu_mapa_hybrid">Hibrido</string>
+    <string name="menu_mapa_sattelite">Satélite</string>
+    <string name="menu_mapa_terrain">Terreno</string>
+    <string name="menu_mapa_normal">Normal</string>
+    <string name="menu_cel1">Indumatics 715</string>
+    <string name="menu_cel2">Indumatics 805</string>
+    <string name="menu_cel3">Indumatics 490</string>
+    <string name="menu_loc">Localizar</string>
+    <string name="historial">Ver Historial del dia</string>
+    <string name="menu_tools">Herramientas</string>
+    <string name="menu_medir">Distancia</string>
+    <string name="mylocation">Mi Ubicacion</string>
+    <string name="clear">Limpiar mapa</string>
+    <string name="menu_clear">Limpiar mapa</string>
+    <string name="menu_waypoint">Ver Referencias</string>
+
+</resources>

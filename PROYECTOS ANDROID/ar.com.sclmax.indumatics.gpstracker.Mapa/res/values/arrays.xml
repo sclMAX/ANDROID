@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TELEFONOS">
+        <item >+543436209715</item>
+        <item >+543436207805</item>
+        <item >+543434702490</item>
+    </string-array>
+  
+    
+</resources>

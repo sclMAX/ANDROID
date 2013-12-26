@@ -1,0 +1,3 @@
+Trabajando en DB de equipos.
+
+Probar y optimizar Notificacion

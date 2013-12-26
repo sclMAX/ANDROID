@@ -1,0 +1,12 @@
+Hi
+
+Your account number is: 22321
+
+Your new database is now ready to use.
+
+To connect to your database use these details
+Host: sql3.freesqldatabase.com
+Database name: sql312769
+Database user: sql312769
+Database password: vP7!sZ8%
+Port number: 3306

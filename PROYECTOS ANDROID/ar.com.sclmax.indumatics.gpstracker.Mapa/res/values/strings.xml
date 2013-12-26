@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">GPSTracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="consultasms">Consultar</string>
+    <string name="opendb">Abrir DB</string>
+    <string name="viewsatelite">Vista Satelite</string>
+    <string name="seltel">Lista de Teléfonos</string>
+    <string name="btnhistorial">Historial</string>
+
+</resources>

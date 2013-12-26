@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/btnSendSMS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/consultasms" />
+
+        <Button
+            android:id="@+id/btnAbrirFIle"
+            android:layout_width="111dp"
+            android:layout_height="wrap_content"
+            android:text="@string/opendb" />
+
+        <Button
+            android:id="@+id/btnHistorial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btnhistorial" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <CheckBox
+            android:id="@+id/chkSatelite"
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
+            android:text="@string/viewsatelite" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/seltel"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+
+            <Spinner
+                android:id="@+id/sprTelefonos"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.google.android.maps.MapView
+        android:id="@+id/mapaview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:apiKey="0_hwkL_Dz2s2PFLWg9lcP82lZH3ngg3sAE302DQ"
+        android:clickable="true" />
+
+</LinearLayout>
